@@ -2,6 +2,8 @@
 
 Hacker, functional-programming zealot, roboticist, machine-learning practitioner.
 
+*I am unwilling to bow to ignorant rants from people who forms concensus about a subject matter they know nothing about by asking a committee of "two PhD holders".*
+
 ## My Repositories
 
 ### python-ili9341
