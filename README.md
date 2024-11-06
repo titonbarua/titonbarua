@@ -6,7 +6,7 @@ Hacker, functional-programming zealot, roboticist, machine-learning practitioner
 
 ### sphotik
 
-A phoentic English->Bangla transliteration keyboard for Linux with Avro ruleset
+A phonetic English->Bangla transliteration keyboard for Linux with Avro ruleset
 
 https://github.com/titonbarua/sphotik/
 
