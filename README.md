@@ -6,7 +6,7 @@ Hacker, functional-programming zealot, roboticist, machine-learning practitioner
 
 ### python-ili9341
 
-Python Library for ILI9341 Driven LCD displays Connected with 4-wire SPI
+Python library for ILI9341 driven LCD displays connected with 4-wire SPI interface
 
 https://github.com/titonbarua/python_ili9341
 
