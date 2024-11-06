@@ -1,5 +1,15 @@
 ## About Me
 
+Hacker, functional-programming zealot, roboticist, machine-learning practitioner.
+
+## Repositories
+
+### sphotik
+
+A phoentic English->Bangla transliteration keyboard for Linux with Avro ruleset
+
+https://github.com/titonbarua/sphotik/
+
 ### freeswitch-clj
 
 Clojure interface to Freeswitch event socket system
