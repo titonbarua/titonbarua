@@ -16,6 +16,12 @@ Clojure interface to Freeswitch event socket system
 
 https://github.com/titonbarua/freeswitch-clj
 
+### shadow-cljs-gjs-target
+
+Build-infrastructure to write Gnome applications in Clojurescript
+
+https://github.com/titonbarua/shadow-cljs-gjs-target
+
 <!--
 **titonbarua/titonbarua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
