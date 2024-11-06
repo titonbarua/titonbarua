@@ -1,7 +1,9 @@
 ## About Me
 
-### Freeswitch
+### freeswitch-clj
+
 Clojure interface to Freeswitch event socket system
+
 https://github.com/titonbarua/freeswitch-clj
 
 <!--
