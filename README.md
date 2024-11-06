@@ -4,6 +4,12 @@ Hacker, functional-programming zealot, roboticist, machine-learning practitioner
 
 ## Repositories
 
+### python-ili9341
+
+Python Library for ILI9341 Driven LCD displays Connected with 4-wire SPI
+
+https://github.com/titonbarua/python_ili9341
+
 ### sphotik
 
 A phonetic English->Bangla transliteration keyboard for Linux with Avro ruleset
