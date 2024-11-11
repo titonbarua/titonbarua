@@ -32,8 +32,17 @@ Build-infrastructure to write Gnome applications in Clojurescript
 
 https://github.com/titonbarua/shadow-cljs-gjs-target
 
+## Mechanical Designs
+
+### 3D Designs - AFRL
+
+Collection of printable 3D designs I have built while working at an underwater robotics research lab at University of South Carolina.
+
+https://github.com/titonbarua/3d_designs__afrl
+
 <!--
 **titonbarua/titonbarua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
