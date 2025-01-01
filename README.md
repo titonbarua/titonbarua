@@ -8,6 +8,12 @@ Hacker, functional-programming zealot, roboticist, machine-learning practitioner
 
 ## My Repositories
 
+### micropython-ms5837-depth-sensor
+
+Micropython library for reading MS5837-XXX depth sensors
+
+https://github.com/titonbarua/micropython-ms5837-depth-sensor/
+
 ### python-ili9341
 
 Python library for ILI9341 driven LCD displays connected with 4-wire SPI interface
