@@ -8,31 +8,31 @@ Hacker, functional-programming zealot, roboticist, machine-learning practitioner
 
 ## My Repositories
 
-### micropython-ms5837-depth-sensor
+### MS5837 Depth Sensor Interface (micropython)
 
 Micropython library for reading MS5837-XXX depth sensors
 
 https://github.com/titonbarua/micropython-ms5837-depth-sensor/
 
-### python-ili9341
+### ILI9341 Small SPI LCD Screen Interface (python)
 
 Python library for ILI9341 driven LCD displays connected with 4-wire SPI interface
 
 https://github.com/titonbarua/python_ili9341
 
-### sphotik
+### Sphotik, Phonetic Bangla Keyboard (Linux)
 
 A phonetic English->Bangla transliteration keyboard for Linux with Avro ruleset
 
 https://github.com/titonbarua/sphotik/
 
-### freeswitch-clj
+### Control Freeswitch from Clojure
 
 Clojure interface to Freeswitch event socket system
 
 https://github.com/titonbarua/freeswitch-clj
 
-### shadow-cljs-gjs-target
+### Write Gnome GUI applications in Clojure
 
 Build-infrastructure to write Gnome applications in Clojurescript
 
