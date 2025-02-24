@@ -40,10 +40,6 @@ https://github.com/titonbarua/shadow-cljs-gjs-target
 
 ## Mechanical Designs
 
-### 3D Designs - AFRL
-
-Collection of printable 3D designs I have built while working at an underwater robotics research lab at University of South Carolina.
-
 https://github.com/titonbarua/3d_designs__afrl
 
 <!--
