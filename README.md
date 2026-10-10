@@ -1,59 +1,22 @@
 ## About Me
 
-Hacker, functional-programming zealot, roboticist, machine-learning practitioner.
+Researcher, hacker, problem-solver, polyglot programmer. If you want to know more, visit [my personal page](https://titonbarua.com).
 
-<!--
-*I am unwilling to bow to ignorant rants from people who forms concensus about a subject matter they know nothing about by asking a committee of "two PhD holders".*
--->
+The following is a list of some of my past works published as open source contributions.
 
-## My Repositories
+### Embedded
 
-### MS5837 Depth Sensor Interface (micropython)
+- [Fast, accurate MicroPython driver for MS5837-XXX family depth sensors](https://github.com/titonbarua/micropython-ms5837-depth-sensor/)
+- [Fast Python driver for ILI9341 driven SPI LCD displays, with partial update support](https://github.com/titonbarua/python_ili9341)
 
-Micropython library for reading MS5837-XXX depth sensors
+### IP Telephony
+- [High performance Freeswitch event socket interface for Clojure](https://github.com/titonbarua/freeswitch-clj)
 
-https://github.com/titonbarua/micropython-ms5837-depth-sensor/
+### Linux Desktop
 
-### ILI9341 Small SPI LCD Screen Interface (python)
+- [Roman to Bangla transliteration keyboard for Linux with Avro ruleset](https://github.com/titonbarua/sphotik/)
+- [Clojurescript glue for writing Gnome desktop applications](https://github.com/titonbarua/shadow-cljs-gjs-target)
 
-Python library for ILI9341 driven LCD displays connected with 4-wire SPI interface
+### MS/PhD Coursework Related
 
-https://github.com/titonbarua/python_ili9341
-
-### Sphotik, Phonetic Bangla Keyboard (Linux)
-
-A phonetic English->Bangla transliteration keyboard for Linux with Avro ruleset
-
-https://github.com/titonbarua/sphotik/
-
-### Control Freeswitch from Clojure
-
-Clojure interface to Freeswitch event socket system
-
-https://github.com/titonbarua/freeswitch-clj
-
-### Write Gnome GUI applications in Clojure
-
-Build-infrastructure to write Gnome applications in Clojurescript
-
-https://github.com/titonbarua/shadow-cljs-gjs-target
-
-## Mechanical Designs
-
-https://github.com/titonbarua/3d_designs__afrl
-
-<!--
-**titonbarua/titonbarua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [C++ fragment type checker](https://github.com/titonbarua/cpp-fragment-type-checker)
