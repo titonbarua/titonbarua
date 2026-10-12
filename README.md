@@ -17,6 +17,7 @@ The following is a list of some of my past works published as open source contri
 - [Roman to Bangla transliteration keyboard for Linux with Avro ruleset](https://github.com/titonbarua/sphotik/)
 - [Clojurescript glue for writing Gnome desktop applications](https://github.com/titonbarua/shadow-cljs-gjs-target)
 
-### MS/PhD Coursework Related
+### PhD Coursework Related + Experimental
 
 - [C++ fragment type checker](https://github.com/titonbarua/cpp-fragment-type-checker)
+- [Experimental LSTM implementation on AMD AI Engine](https://github.com/HeRCLab/aie_lstm)
